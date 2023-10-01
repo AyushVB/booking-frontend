@@ -104,7 +104,7 @@ const Login = () => {
                 <Stack spacing="6">
                   <Button type="submit">Sign in</Button>
                   <Text color="fg.muted" align={"center"}>
-                    Dont have an account?{" "}
+                    Don&apos;t have an account?{" "}
                     <Link href="register" color={"blue"}>
                       Sign up
                     </Link>
